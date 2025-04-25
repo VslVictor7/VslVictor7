@@ -2,7 +2,7 @@
 
 Trying to be better.
 
-Currently learning Next.js/React, Django-Rest and Node.js.
+Currently learning Next.js/TypeScript, Django-Rest and Node.js.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
