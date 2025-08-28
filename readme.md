@@ -2,6 +2,6 @@
 
 Trying to be better.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bond-009&hide_border=true&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VslVictor7&hide_border=true&layout=compact&theme=dark)
 
 ![VslVictor7's GitHub stats](https://github-readme-stats.vercel.app/api?username=VslVictor7&count_private=true&show_icons=true&theme=onedark)
