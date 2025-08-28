@@ -2,15 +2,4 @@
 
 Trying to be better.
 
-Currently learning Next.js/React, Django-Rest and Node.js.
-
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VslVictor7&layout=compact&hide=css,html&theme=onedark)
-
-![VslVictor7's GitHub stats](https://github-readme-stats.vercel.app/api?username=VslVictor7&count_private=true&show_icons=true&theme=onedark)
-
-
-</details>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bond-009&hide_border=true&layout=compact&theme=dark)
