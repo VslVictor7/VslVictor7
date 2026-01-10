@@ -2,6 +2,6 @@
 
 Trying to be better.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VslVictor7&hide_border=true&layout=compact&theme=dark&hide=css,html)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vslvictor7&layout=compact&theme=onedark&hide=css,html)
 
-![VslVictor7's GitHub stats](https://github-readme-stats.vercel.app/api?username=VslVictor7&count_private=true&show_icons=true&theme=onedark)
+![VslVictor7's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vslvictor7&count_private=true&show_icons=true&theme=onedark)
